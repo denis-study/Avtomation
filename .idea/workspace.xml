@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2445e99-4ff5-464a-bb36-46076f9d9ba7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eZvTY6h1GS7OZdb53nimZnRkRU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
+    <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.remain" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest.remain&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.remain1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest.remain1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.remain2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest.remain2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.remain3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.netology.service.CashbackHackServiceTest.remain3&quot; --scan" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CashbackHackServiceTest" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.remain3" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.remain2" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.remain1" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.remain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2445e99-4ff5-464a-bb36-46076f9d9ba7" name="Default Changelist" comment="" />
+      <created>1594541938261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594541938261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="134" y="0" key="#Intentions" timestamp="1594551477335">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="134" y="0" key="#Intentions/0.0.1280.690@0.0.1280.690" timestamp="1594551477335" />
+    <state x="134" y="0" key="#Project_Structure" timestamp="1594541982201">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="134" y="0" key="#Project_Structure/0.0.1280.690@0.0.1280.690" timestamp="1594541982201" />
+    <state width="1225" height="152" key="GridCell.Tab.0.bottom" timestamp="1594551689217">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1225" height="152" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1594551689217" />
+    <state width="1225" height="152" key="GridCell.Tab.0.center" timestamp="1594551689217">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1225" height="152" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1594551689217" />
+    <state width="1225" height="152" key="GridCell.Tab.0.left" timestamp="1594551689217">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1225" height="152" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1594551689217" />
+    <state width="1225" height="152" key="GridCell.Tab.0.right" timestamp="1594551689217">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1225" height="152" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1594551689217" />
+    <state x="402" y="113" key="chooseDestDirectoryDialog" timestamp="1594542204578">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="402" y="113" key="chooseDestDirectoryDialog/0.0.1280.690@0.0.1280.690" timestamp="1594542204578" />
+    <state x="266" y="132" key="com.intellij.ide.util.TipDialog" timestamp="1594541943486">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="266" y="132" key="com.intellij.ide.util.TipDialog/0.0.1280.690@0.0.1280.690" timestamp="1594541943486" />
+    <state x="401" y="12" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594543975380">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="401" y="12" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.690@0.0.1280.690" timestamp="1594543975380" />
+  </component>
+</project>
